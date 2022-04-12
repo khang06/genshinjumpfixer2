@@ -1,4 +1,7 @@
 # genshinjumpfixer2
+
+**Moved to [another repo](https://github.com/khang06/misc/tree/master/reversing/genshin)!!!**
+
 This is an IDAPython script for cleaning up obfuscated branches seen in Genshin Impact's UnityPlayer.dll. It's only been tested on the 1.5 dev build leak, but I doubt much has changed since then.
 
 To use this, simply execute the script while selecting a specific block of code. The script will automatically calculate the jump targets and simplify the code.
